@@ -5,7 +5,7 @@ from telebot import TeleBot, types
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 
-BOT_TOKEN = "8850295547:AAF1CxSrrXa0Z0O8OnYVA8_lCM4NRj8CFrU"
+BOT_TOKEN = "8708182192:AAFEvhnW0GdVHxLsn1zP-4dgiVXCWXWDstI"
 ADMIN_ID = 5910026649
 GROUP_ID = -1004378562071
 
