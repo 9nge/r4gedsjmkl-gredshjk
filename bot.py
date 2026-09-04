@@ -22,7 +22,7 @@ PHOTO_3 = "AgACAgIAAyEFAAMBBPuOFwADLmprgtPyHJ6aYQdSuFkwSiKtdbFnAAK4GmsbyYlZS11pu
 
 START_TEXT = """Astra Origins — уникальный сервер с плагином ориджинс и его дополнениями. Города, культы и фракции — всё это ты найдёшь у нас!
 
-Группа проекта: https://t.me/AstraOrigins
+Группа проекта: https://t.me/AstraOrigins_Vanilla
 
 Чтобы попасть на сервер, нужно приобрести платную проходку за 99 ₽. Что она даёт?
 
@@ -44,6 +44,8 @@ PAYMENT_TEXT = """Реквизиты для оплаты:
 APPROVED_TEXT = """✅ Оплата подтверждена!
 
 Добро пожаловать на сервер Astra Origins!
+
+Tg Group: https://t.me/AstraOrigins_Vanilla
 
 IP: astraorigins.20tps.ru
 
