@@ -45,7 +45,7 @@ APPROVED_TEXT = """✅ Оплата подтверждена!
 
 Добро пожаловать на сервер Astra Origins!
 
-IP:
+IP: astraorigins.20tps.ru
 
 Правила и полезные ссылки ты найдёшь в нашем Telegram-канале: @AstraOrigins1
 
